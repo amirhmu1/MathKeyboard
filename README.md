@@ -1,3 +1,15 @@
-# MathKeyboard
-This page allows you to easily type mathematical and scientific symbols available in Unicode. You can edit your text in the box and then copy it to your document, e-mail message, etc.
+
+# Math Symbols Keyboard ⌨️➗✖️
+
+A lightweight and easy-to-use **virtual keyboard** for typing common **mathematical symbols** and operators.  
+Perfect for students, teachers, developers, and anyone working with math expressions on a daily basis.
+
+---
+
+## ✨ Features
+- 🧮 Quick access to **frequently used math symbols** (√, ∑, ∞, π, ∂, ∫, ±, etc.)  
+- 🎨 Clean and minimal UI  
+- 📱 Responsive design (works on desktop & mobile)  
+- 🔤 Supports copy & paste into any editor or app  
+
 ![picture](Symbols.png)
