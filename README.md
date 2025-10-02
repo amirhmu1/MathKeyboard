@@ -16,13 +16,19 @@ Perfect for students, teachers, developers, and anyone working with math express
 Here’s a preview of the keyboard:
 ![picture](Symbols.png)
 
+**Open the Keyboard**  
+   Launch the project by opening `index.html` in your browser.  
 
-Roadmap
+2. **Select Symbols**  
+   Click any mathematical symbol (e.g., `√`, `∑`, `∞`, `π`, `∫`) to copy it instantly to your clipboard.  
 
- Add search bar for quick symbol lookup
+3. **Paste Anywhere**  
+   Paste the copied symbol into:
+   - Word processors (Word, Google Docs, LibreOffice, etc.)
+   - LaTeX editors
+   - Chat apps or emails
+   - Programming code comments  
 
- Dark mode support
-
- Chrome extension integration
-
- Export LaTeX format
+4. **Customize Your Layout**  
+   - Edit `symbols.json` (or the configuration file) to add/remove symbols.  
+   - Rearrange groups by categories: *Operators, Greek Letters, Geometry, Calculus, Logic, etc.*  
