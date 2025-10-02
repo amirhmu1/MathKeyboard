@@ -12,4 +12,6 @@ Perfect for students, teachers, developers, and anyone working with math express
 - 📱 Responsive design (works on desktop & mobile)  
 - 🔤 Supports copy & paste into any editor or app  
 
+## 📸 Screenshots
+Here’s a preview of the keyboard:
 ![picture](Symbols.png)
