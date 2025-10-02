@@ -54,3 +54,10 @@ This project is built using simple and reliable technologies:
 - [ ] **Export to LaTeX** → Copy selected symbols as valid LaTeX commands.  
 - [ ] **Mobile Optimization** → Improved keyboard layout for touchscreens.
 
+
+## 📜 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat&logo=open-source-initiative)](LICENSE)
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
