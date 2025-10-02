@@ -47,12 +47,10 @@ This project is built using simple and reliable technologies:
 *No external heavy frameworks required. The keyboard runs directly in the browser.*  
 
 ## 📌 Roadmap
-
-We’re continuously improving the **Math Symbols Keyboard**. Planned updates:  
-
--  **Search Functionality** → Quickly find symbols by name (e.g., typing `integral` → `∫`).  
--  **Favorites Section** → Save frequently used symbols for faster access.  
-      **Dark Mode** → Better experience in low-light environments.  
--  **Browser Extension** → Chrome/Firefox plugin for one-click symbol insertion.  
+- [ ] **Search Functionality** → Quickly find symbols by name (e.g., typing `integral` → `∫`).  
+- [ ] **Favorites Section** → Save frequently used symbols for faster access.  
+- [ ] **Dark Mode** → Better experience in low-light environments.  
+- [ ] **Browser Extension** → Chrome/Firefox plugin for one-click symbol insertion.  
 - [ ] **Export to LaTeX** → Copy selected symbols as valid LaTeX commands.  
-- [ ] **Mobile Optimization** → Improved keyboard layout for touchscreens.  
+- [ ] **Mobile Optimization** → Improved keyboard layout for touchscreens.
+
