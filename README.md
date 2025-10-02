@@ -15,3 +15,14 @@ Perfect for students, teachers, developers, and anyone working with math express
 ## 📸 Screenshots
 Here’s a preview of the keyboard:
 ![picture](Symbols.png)
+
+
+Roadmap
+
+ Add search bar for quick symbol lookup
+
+ Dark mode support
+
+ Chrome extension integration
+
+ Export LaTeX format
